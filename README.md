@@ -1,7 +1,7 @@
 ![banner](https://imgur.com/toOP1Ej.gif)
 
 # 🔶 About Me:
-Name: Avery Izanov | Age: 18
+Name: Avery Izanov | Age: 18.
 
 Doing Bachelors in Computer Science (BSCS) - 1st Semester.
 
