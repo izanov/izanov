@@ -3,9 +3,9 @@
 # 🔶 About Me:
 Name: Avery Izanov | Age: 18
 
-A guy with strong background in Graphic Design.
+Doing Bachelors in Computer Science (BSCS) - 1st Semester.
 
-Education: Bachelors in Computer Science (BSCS) // 1st Semester.
+A guy with strong background in Graphic Design.
 
 Currently working on [Project Izanov](https://izanov.github.io/project-izanov/) and learning **JavaScript.**
 
