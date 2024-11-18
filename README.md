@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/9gp2fiR.png "welcome") 
+![banner](https://imgur.com/VGRzW5Q.gif)
 
 # 💫 About Me:
 Name: Avery Izanov | Age: 18
