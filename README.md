@@ -1,6 +1,6 @@
-![banner](https://imgur.com/VGRzW5Q.gif)
+![banner](https://imgur.com/toOP1Ej.gif)
 
-# 💫 About Me:
+# 🔶 About Me:
 Name: Avery Izanov | Age: 18
 
 A guy with strong background in Graphic Design.
