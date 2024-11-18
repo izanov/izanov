@@ -5,10 +5,9 @@
 
 - 🌱 I’m currently learning **JavaScript.**
 
-- 📫 How to reach me **Gmail: averyizanov@gmail.com // Instagram: averyizanov**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+Gmail: averyizanov@gmail.com // Instagram: averyizanov
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
