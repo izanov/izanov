@@ -1,11 +1,15 @@
+![banner](https://i.imgur.com/9gp2fiR.png "welcome") 
+
 # 💫 About Me:
 Name: Avery Izanov | Age: 18
+
+A guy with strong background in Graphic Design.
 
 Education: Bachelors in Computer Science (BSCS) // 1st Semester.
 
 Currently working on [Project Izanov](https://izanov.github.io/project-izanov/) and learning **JavaScript.**
 
-I wish to specialize in the field of Front-End Web Development and level up my career.
+I wish to specialize in the field of Front-End Web Development and level up my career in Web Designing.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/1230055739238776874) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/averyizanov) 
@@ -22,4 +26,8 @@ I wish to specialize in the field of Front-End Web Development and level up my c
 ![](https://github-contributor-stats.vercel.app/api?username=izanov&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=izanov&icon=0&color=3)](https://visitcount.itsvg.in)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hxxmz/hxxmz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hxxmz/hxxmz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hxxmz/hxxmz/output/github-contribution-grid-snake.svg">
+</picture>
